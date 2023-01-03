@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="main">
+    <div id="head">
+    </div>
+    <div id="head-link">
+    </div>
+    <div id="left">
+    </div>
+    <div id="content">
+    </div>
+    <div id="right">
+    </div>
+    <div id="footer">
+    </div>
+</div>   
+body{
+    font-family: Arial, Tahoma, serif;
+    font-size: 12px;
+}
+ 
+#main{
+    width: 1000px;
+    padding: 0;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#head{
+    height: 100px;
+    background-color: #F5F5F5;
+    border: 1px solid #CDCDCD;
+    margin-bottom:5px;
+}     
+</body>
+</html>
